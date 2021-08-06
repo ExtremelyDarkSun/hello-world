@@ -1,2 +1,3 @@
 # hello-world
-it's a small step in world,but it's a big step for me
+这就是世界上的一小步，但对我来说就是一大步
+l am a student who stduied in computerscience
